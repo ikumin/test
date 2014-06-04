@@ -6,3 +6,5 @@
 おさらいです　できたかな？ 
 puts "Hello world!"　
 うまくいきません　
+もういっかい　→　puts "Hello world!"　
+二日目の夜　ぎとはぶ　てすてす
